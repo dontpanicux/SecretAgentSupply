@@ -1,0 +1,55 @@
+body {
+	font-family: helvetica;
+
+}
+
+
+
+
+.header {
+	background: black;
+
+	
+}
+.header h1 {
+	color: white;
+
+}
+
+.new-arrival-box {
+	background: black;
+	height: 300px;
+	width: 500px;
+	color: white;
+
+}
+
+.jumbotron {
+	background-image: url(../moto.jpeg);
+	height: auto;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.nav {
+	width: 100%;
+	max-height: 200px;
+	background-color: red;
+	color: white;
+}
+
+.nav li {
+	margin: 10px; 
+}
+
+.pen-box, .watch-box, .glasses-box {
+	border: 1px solid black;
+}
+
+.location-box, .hours-box {
+	background-color: black;
+	color: white;
+} 
+
